@@ -1,0 +1,22 @@
+{
+  "Users": [
+    {
+      "name": "Mubarak Jinabade",
+      "age": "22",
+      "dob": "12-01-1999",
+      "state": "Karnataka",
+      "pin": "591311",
+      "address": "122",
+      "id": 1
+    },
+    {
+      "name": "Mubarak Jinabade",
+      "age": "22",
+      "dob": "12-01-1999",
+      "state": "Karnataka",
+      "address": "Noor Mohalla Ugar Road",
+      "pin": "591311",
+      "id": 2
+    }
+  ]
+}
